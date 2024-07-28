@@ -2,8 +2,8 @@
 
 ## Overview
 
-**Open Gov Africa - Citizens in Office** is a decentralized collaborative platform dedicated to promoting transparency, accountability, and citizen participation across African governments. By leveraging open data, we aim to empower citizens, track government activities, and ensure that public officials are accountable for their actions. 
-- The definition of **citizens** here is not just limited to office holders, but every citizen is in office via the elected/appointed official(s) who are called to serve the people.
+**Open Gov Africa - (Office of The Citizens)** is a decentralized collaborative platform dedicated to promoting transparency, accountability, and citizen participation across African governments. By leveraging open data, we aim to empower citizens, track government activities, and ensure that public officials are accountable for their actions. 
+- The definition of **citizens** here is not just limited to office holders.Every citizen is in office via the elected/appointed official(s) who are called to serve the people.
 - It is pertinent to note that because of the decentralised and open source nature of this project, it will continue till bad governance in Africa is corrected. 
 - To ensure continuity, there will be numerous maintainers to continue the good work of holding leaders accountable. In essence, **We Cannot All Be Killed or Bribed.**
 
@@ -87,7 +87,7 @@ We appreciate the support and contributions from our community and partners who 
 
 ---
 
-Thank you for contributing to **Open Gov Africa - Citizens in Office**. Together, we can build a more transparent and accountable governance system across Africa.
+Thank you for contributing to **Open Gov Africa - Office of The Citizens**. Together for a more transparent and accountable governance system across Africa.
 
 <!--
 
