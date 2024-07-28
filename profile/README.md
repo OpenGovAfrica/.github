@@ -1,16 +1,16 @@
-# Open Data Africa - Citizens in Office 👋
+# Open Gov Africa - Citizens in Office 👋
 
 ## Overview
 
-**Open Data Africa - Citizens in Office** is a decentralized collaborative platform dedicated to promoting transparency, accountability, and citizen participation across African governments. By leveraging open data, we aim to empower citizens, track government activities, and ensure that public officials are accountable for their actions. 
+**Open Gov Africa - Citizens in Office** is a decentralized collaborative platform dedicated to promoting transparency, accountability, and citizen participation across African governments. By leveraging open data, we aim to empower citizens, track government activities, and ensure that public officials are accountable for their actions. 
 - The definition of **citizens** here is not just limited to office holders, but every citizen is in office via the elected/appointed official(s) who are called to serve the people.
 - It is pertinent to note that because of the decentralised and open source nature of this project, it will continue till bad governance in Africa is corrected. 
 - To ensure continuity, there will be numerous maintainers to continue the good work of holding leaders accountable. In essence, **We Cannot All Be Killed or Bribed.**
 
 --
-- Open Data Africa **OF** Citizens in Office
-- Open Data Africa **BY** Citizens in Office
-- Open Data Africa **FOR** Citizens in Office
+- Open Gov Africa **OF** Citizens in Office
+- Open Gov Africa **BY** Citizens in Office
+- Open Gov Africa **FOR** Citizens in Office
 
 ## Mission
 
@@ -18,7 +18,7 @@ Our mission is to use open data to enhance governance, foster accountability, an
 
 ## Features
 
-- **Government Activity Tracking**: Monitor the activities of members of the House of Representatives, the Senate, and various ministries and ministers.
+- **Government Activity Tracking**: Monitor the activities of the Presidency, members of the House of Representatives, the Senate, the various ministries and ministers, and Local Governments.
 - **Protest Tracking**: Collect and safeguard information about protests, including participant details, to ensure safety and accountability.
 - **Financial Transparency**: Track the allocation and expenditure of government funds to highlight potential diversions or misuse.
 - **Business Affiliations**: Document known businesses and affiliated entities of public officials to identify conflicts of interest.
@@ -75,7 +75,7 @@ For detailed contribution guidelines, refer to our [CONTRIBUTING.md](CONTRIBUTIN
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to us at [hello@opendataafrica.org].
+For any questions or suggestions, feel free to reach out to us at [hello@opengovafrica.org].
 
 ## License
 
@@ -87,7 +87,7 @@ We appreciate the support and contributions from our community and partners who 
 
 ---
 
-Thank you for contributing to **Open Data Africa - Citizens in Office**. Together, we can build a more transparent and accountable governance system across Africa.
+Thank you for contributing to **Open Gov Africa - Citizens in Office**. Together, we can build a more transparent and accountable governance system across Africa.
 
 <!--
 
