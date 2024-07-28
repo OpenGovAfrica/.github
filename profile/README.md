@@ -1,4 +1,4 @@
-# Open Gov Africa - Citizens in Office 👋
+# Open Gov Africa - (Office of The Citizens) 👋
 
 ## Overview
 
@@ -75,7 +75,7 @@ For detailed contribution guidelines, refer to our [CONTRIBUTING.md](CONTRIBUTIN
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to us at [hello@opengovafrica.org].
+For any questions or suggestions, feel free to reach out to us at [citizens@opengovafrica.org].
 
 ## License
 
