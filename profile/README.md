@@ -24,6 +24,12 @@ Our mission is to use open data to enhance governance, foster accountability, an
 - **Business Affiliations**: Document known businesses and affiliated entities of public officials to identify conflicts of interest.
 - **Country-Specific Information**: Enable contributors to add and access information specific to different African countries.
 
+## Free Resources to Learn about GitHub
+
+- [Git: Become an Expert in Git & GitHub in 4 Hours](https://www.udemy.com/course/git-expert-4-hours/)
+- [FreeCodeCamp-Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [Introduction to GitHub Project Boards](https://m.youtube.com/watch?v=idZyqNIrt84)
+
 ## Repository Structure
 
 ```plaintext
@@ -88,14 +94,3 @@ We appreciate the support and contributions from our community and partners who 
 ---
 
 Thank you for contributing to **Open Gov Africa - Office of The Citizens**. Together for a more transparent and accountable governance system across Africa.
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
