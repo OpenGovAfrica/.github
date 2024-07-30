@@ -18,7 +18,7 @@ Our mission is to use open data to enhance governance, foster accountability, an
 
 ## Features
 
-- **Government Activity Tracking**: Monitor the activities of the Presidency, members of the House of Representatives, the Senate, the various ministries and ministers, and Local Governments.
+- **Government Activity**: Monitor the publicly available activities & decisions of the Presidency, members of the House of Representatives, the Senate, the various ministries and ministers, and Local Governments.
 - **Protest Tracking**: Collect and safeguard information about protests, including participant details, to ensure safety and accountability.
 - **Financial Transparency**: Track the allocation and expenditure of government funds to highlight potential diversions or misuse.
 - **Business Affiliations**: Document known businesses and affiliated entities of public officials to identify conflicts of interest.
