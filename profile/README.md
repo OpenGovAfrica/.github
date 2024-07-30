@@ -79,6 +79,14 @@ We welcome contributions from everyone! Here's how you can get started:
 
 For detailed contribution guidelines, refer to our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
+## Community and Support
+
+Join our community to collaborate, ask questions, and seek support:
+
+- **GitHub Issues**: For bug reports, feature requests, and enhancements.
+- **Discussion Forums**: [OpenGov Africa Discussions](https://github.com/OpenGovAfrica/OpenGovAfrica/discussions)
+- **Social Media**: Follow us on [Twitter](https://twitter.com/OpenGovAfrica), [LinkedIn](https://www.linkedin.com/company/104341081), [Instagram](https://instagram.com/OpenGovAfrica) and [Facebook](https://facebook.com/OpenGovAfrica).
+
 ## Contact
 
 For any questions or suggestions, feel free to reach out to us at [citizens@opengovafrica.org].
