@@ -79,12 +79,116 @@ We welcome contributions from everyone! Here's how you can get started:
 
 For detailed contribution guidelines, refer to our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
+## Volunteer Teams at OpenGov Africa
+
+To achieve our mission of promoting transparency and accountability, we need  a variety of teams with specific skills and responsibilities. Here’s a detailed list of the essential teams you should consider contributing to:
+
+### 1. **Research and Data Collection Team**
+- **Responsibilities:**
+  - Collect data on government officials, their activities, financial expenditures, and business affiliations.
+  - Verify the accuracy and authenticity of the collected data.
+  - Monitor news sources, official government releases, and other information channels for updates.
+- **Skills Needed:**
+  - Research skills
+  - Attention to detail
+  - Analytical skills
+  - Familiarity with data verification techniques
+
+### 2. **Technology and Development Team**
+- **Responsibilities:**
+  - Develop and maintain the OpenGov Africa website and any associated databases.
+  - Ensure data security and privacy, including encryption of sensitive information.
+  - Implement and maintain tools for data collection and analysis.
+  - Manage GitHub repositories and ensure they are up-to-date.
+- **Skills Needed:**
+  - Web development (HTML, CSS, JavaScript)
+  - Backend development (Python, Ruby, PHP)
+  - Database management (SQL, NoSQL)
+  - Cybersecurity best practices
+  - Familiarity with Git and GitHub
+
+### 3. **Communications and Outreach Team**
+- **Responsibilities:**
+  - Develop and execute communication strategies to raise awareness about OpenGov Africa’s mission and activities.
+  - Manage social media accounts and engage with the public.
+  - Craft press releases, newsletters, and blog posts.
+  - Liaise with media outlets, NGOs, and other stakeholders.
+- **Skills Needed:**
+  - Excellent written and verbal communication
+  - Social media management
+  - Public relations
+  - Content creation
+
+### 4. **Volunteer Coordination Team**
+- **Responsibilities:**
+  - Recruit, train, and manage volunteers.
+  - Develop volunteer programs and ensure volunteers are effectively integrated into various projects.
+  - Track volunteer contributions and recognize their efforts.
+- **Skills Needed:**
+  - Human resources management
+  - Organizational skills
+  - Communication skills
+
+### 5. **Fundraising and Partnerships Team**
+- **Responsibilities:**
+  - Identify potential donors and fundraising opportunities.
+  - Develop and execute fundraising campaigns.
+  - Build and maintain relationships with donors, partners, and sponsors.
+  - Explore and implement decentralized donation methods.
+- **Skills Needed:**
+  - Fundraising strategies
+  - Networking
+  - Proposal writing
+  - Knowledge of decentralized finance (DeFi)
+
+### 6. **Legal and Compliance Team**
+- **Responsibilities:**
+  - Ensure all activities comply with local and international laws.
+  - Manage legal issues related to data privacy and security.
+  - Draft and review contracts, agreements, and policies.
+- **Skills Needed:**
+  - Legal expertise
+  - Knowledge of data protection laws (e.g., GDPR)
+  - Attention to detail
+
+### 7. **Protest Monitoring and Safety Team**
+- **Responsibilities:**
+  - Track and document protest activities and incidents.
+  - Ensure the safety of protesters by providing guidelines and support.
+  - Collaborate with human rights organizations and legal advisors.
+- **Skills Needed:**
+  - Field reporting
+  - Crisis management
+  - Knowledge of human rights
+
+### 8. **Finance and Administration Team**
+- **Responsibilities:**
+  - Manage the organization’s finances, including budgeting and accounting.
+  - Ensure financial transparency and accountability.
+  - Handle administrative tasks to keep the organization running smoothly.
+- **Skills Needed:**
+  - Accounting and finance
+  - Organizational skills
+  - Attention to detail
+
+### 9. **User Support and Community Engagement Team**
+- **Responsibilities:**
+  - Provide support to contributors and users of the platform.
+  - Engage with the community to gather feedback and improve services.
+  - Host webinars, workshops, and community events.
+- **Skills Needed:**
+  - Customer support
+  - Community management
+  - Event planning
+
+**You can volunteer for any of the above teams [here](https://forms.gle/63BwMW3r7MxuJGYE6)**
+
 ## Community and Support
 
 Join our community to collaborate, ask questions, and seek support:
 
 - **GitHub Issues**: For bug reports, feature requests, and enhancements.
-- **Discussion Forums**: [OpenGov Africa Discussions](https://github.com/OpenGovAfrica/OpenGovAfrica/discussions)
+- **Discussion Forums**: [OpenGov Africa Discord](https://discord.gg/9tqEMPsGbt)
 - **Social Media**: Follow us on [Twitter](https://twitter.com/OpenGovAfrica), [LinkedIn](https://www.linkedin.com/company/104341081), [Instagram](https://instagram.com/OpenGovAfrica) and [Facebook](https://facebook.com/OpenGovAfrica).
 
 ## Contact
@@ -101,4 +205,4 @@ We appreciate the support and contributions from our community and partners who 
 
 ---
 
-Thank you for contributing to **Open Gov Africa - Office of The Citizens**. Together for a more transparent and accountable governance system across Africa.
+Thank you for contributing to **Open Gov Africa - Office of The Citizens**. Let's work together for a more transparent and accountable governance system across Africa.
