@@ -189,7 +189,7 @@ Join our community to collaborate, ask questions, and seek support:
 
 - **GitHub Issues**: For bug reports, feature requests, and enhancements.
 - **Discussion Forums**: [OpenGov Africa Discord](https://discord.gg/Eswe4cvvMM)
-- **Social Media**: Follow us on [Twitter](https://twitter.com/OpenGovAfrica), [LinkedIn](https://www.linkedin.com/company/104341081), [Instagram](https://instagram.com/OpenGovAfrica) and [Facebook](https://facebook.com/OpenGovAfrica).
+- **Social Media**: Follow us on [YouTube](https://www.youtube.com/@OpenGovAfrica?sub_confirmation=1), [Twitter](https://twitter.com/OpenGovAfrica), [LinkedIn](https://www.linkedin.com/company/104341081), [Instagram](https://instagram.com/OpenGovAfrica) and [Facebook](https://facebook.com/OpenGovAfrica).
 
 ## Contact
 
