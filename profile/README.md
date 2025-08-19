@@ -1,8 +1,8 @@
-# Open Gov Africa - (Office of The Citizens) 👋
+# Open Gov Africa - (Office of The Citizens) 
 
 ## Overview
 
-**Open Gov Africa - (Office of The Citizens)** is a decentralized collaborative platform dedicated to promoting transparency, accountability, and citizen participation across African governments. By leveraging open data, we aim to empower citizens, track government activities, and ensure that public officials are accountable for their actions. 
+**Open Gov Africa - (Office of The Citizens)** is a decentralized collaborative platform dedicated to promoting transparency, accountability, and citizen participation across African governments. By leveraging open data, we aim to empower citizens participation, track government activities, and ensure that public officials are accountable for their actions. 
 - The definition of **citizens** here is not just limited to office holders.Every citizen is in office via the elected/appointed official(s) who are called to serve the people.
 - It is pertinent to note that because of the decentralised and open source nature of this project, it will continue till bad governance in Africa is corrected. 
 - To ensure continuity, there will be numerous maintainers to continue the good work of holding leaders accountable.
@@ -188,7 +188,7 @@ To achieve our mission of promoting transparency and accountability, we need  a 
 Join our community to collaborate, ask questions, and seek support:
 
 - **GitHub Issues**: For bug reports, feature requests, and enhancements.
-- **Discussion Forums**: [OpenGov Africa Discord](https://discord.gg/9tqEMPsGbt)
+- **Discussion Forums**: [OpenGov Africa Discord](https://discord.gg/Eswe4cvvMM)
 - **Social Media**: Follow us on [Twitter](https://twitter.com/OpenGovAfrica), [LinkedIn](https://www.linkedin.com/company/104341081), [Instagram](https://instagram.com/OpenGovAfrica) and [Facebook](https://facebook.com/OpenGovAfrica).
 
 ## Contact
