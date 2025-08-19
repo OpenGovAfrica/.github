@@ -15,16 +15,16 @@
 ## 2. Steering Committee Membership  
 
 **Eligibility:**  
-- At least 12 months of consistent contribution (with 6 months as a Maintainer/Core Maintainer).  
-- Strong record of transparency, collaboration, and community trust.  
-- Willing to commit approximately 5 hours/month for governance work.  
+- At **least** 12 months of consistent contribution (with 6 months as a Maintainer/Core Maintainer).  
+- **Strong record** of transparency, collaboration, and community trust.  
+- Willing to **commit** approximately 5 hours/month for governance work.  
 
 **Selection Process:**  
-1. Nomination Phase → Contributors may nominate themselves or be nominated by others.  
-2. Review Phase → Existing SC reviews eligibility (contribution history, community trust).  
-3. Community Input → Open discussion and Q&A with candidates on Discord.  
-4. Election → Community vote (using Loomio, GitHub Issues voting, or similar).  
-5. Onboarding → New SC members shadow existing members for 3 months before full responsibilities.  
+1. **Nomination Phase** → Contributors may nominate themselves or be nominated by others.  
+2. **Review Phase** → Existing SC reviews eligibility (contribution history, community trust).  
+3. **Community Input** → Open discussion and Q&A with candidates on GitHub or Discord.  
+4. **Election** → Community vote (using Loomio, GitHub Issues voting, or similar).  
+5. **Onboarding** → New SC members shadow existing members for **3 months** before full responsibilities.  
 
 **Term Length:**  
 - 2 years per term.  
