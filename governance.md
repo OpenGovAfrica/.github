@@ -1,7 +1,7 @@
-# OpenGov Africa – Growth Pathways & Governance Model - Version 1.0
+## OpenGov Africa – Growth Pathways & Governance Model - Version 1.0
 *(How contributors can become leaders at OpenGov Africa)*  
 
-## 1. Roles & Progression Path  
+### 1. Roles & Progression Path  
 
 | Level | Role | What You Do | How You Get Here | Typical Duration |
 |-------|------|-------------|------------------|-----------------|
@@ -12,7 +12,7 @@
 | Level 4: Core Maintainer | Governance + Strategy | Shapes overall strategy, coordinates across teams, represents OGA externally. | Elected from Maintainers by community-wide vote or SC invitation. | ~12–18 months of active leadership |
 | Level 5: Steering Committee (SC) | Strategic Decision-Maker | Final decisions on governance, partnerships, funding, and disputes. | Nomination + community vote. Must be a Core Maintainer for at least 6–12 months. | 2-year term (renewable once) |
 
-## 2. Steering Committee Membership  
+### 2. Steering Committee Membership  
 
 **Eligibility:**  
 - At **least** 12 months of consistent contribution (with 6 months as a Maintainer/Core Maintainer).  
@@ -35,7 +35,7 @@
 - Elections staggered so not all SC members change at once.  
 - Ensures continuity while allowing fresh leadership.  
 
-## 3. Responsibilities at Each Level  
+### 3. Responsibilities at Each Level  
 
 - **Contributors** → Do the work (docs, data, tech, outreach).  
 - **Maintainers/Team Leads** → Review contributions, coordinate projects, onboard new people.  
@@ -43,7 +43,7 @@
 - **Steering Committee** → Final decision-making authority (budgets, partnerships, governance changes).
 - **Donors/Partners (Advisory)** → Provide financial sustainability, strategic guidance, and capacity-building support. 
 
-## 4. Donors & Partners in Governance  
+### 4. Donors & Partners in Governance  
 
 OpenGov Africa values collaboration with donors, institutions, and partner organizations. However, **financial support does not automatically translate into governance power.**
 
@@ -75,14 +75,14 @@ OpenGov Africa values collaboration with donors, institutions, and partner organ
 - Transparency Reports → All partner contributions (financial or in-kind) logged publicly.  
 - Community Majority Rule → At least 51% of SC votes must always come from elected contributors, not partners.
 
-## 5. Transparency & Accountability  
+### 5. Transparency & Accountability  
 
 - All decisions logged in public Docs/Discord channels.  
 - Monthly community call for SC updates.  
 - Annual public review → Each SC member publishes a “year in review” of their work.  
 - Recall process → Community can trigger a vote of no confidence if a member is inactive or violates trust.  
 
-## 6. Time Expectations  
+### 6. Time Expectations  
 
 - **Contributor** → approximately 2–5 hrs/month.  
 - **Maintainer** → approximately 5–10 hrs/month.  
