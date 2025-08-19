@@ -43,7 +43,7 @@
 - **Steering Committee** → Final decision-making authority (budgets, partnerships, governance changes).
 - **Donors/Partners (Advisory)** → Provide financial sustainability, strategic guidance, and capacity-building support. 
 
-### 4. Donors & Partners in Governance  
+## 4. Donors & Partners in Governance  
 
 OpenGov Africa values collaboration with donors, institutions, and partner organizations. However, **financial support does not automatically translate into governance power.**
 
