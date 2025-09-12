@@ -79,6 +79,21 @@ We welcome contributions from everyone! Here's how you can get started:
 
 For detailed contribution guidelines, refer to our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
+## How to Donate
+
+We encourage everyone to share these official links/wallets when asking for support:  
+
+| Channel | Address / Link |
+|--------|----------------|
+| **GitHub Sponsors** | [https://github.com/sponsors/OpenGovAfrica](https://github.com/sponsors/OpenGovAfrica) |
+| **BTC Wallet** | `bc1qfuvftx2w7rxmkfq9hvmfhks9usk904qvxg79qa` |
+| **ETH Wallet** | `0xe3280903DA03d075449A54d765ccdf3Ce78Bc6bC` |
+| **USDT (TRC-20)** | `TLnddT1PVRMcbMrY6sWBKSGRxdTJEA9Zti` |
+| **BNB (BNB Smart Chain)** | `0xe3280903DA03d075449A54d765ccdf3Ce78Bc6bC` |
+| **Bank Transfer (Currency)** | OpenGov Africa | Bank | Account No |
+
+> Note: always confirm current wallet/account details in `funds-tracker.md` before sharing externally.
+
 ## Volunteer Teams at OpenGov Africa
 
 To achieve our mission of promoting transparency and accountability, we need  a variety of teams with specific skills and responsibilities. Here’s a detailed list of the essential teams you should consider contributing to:
