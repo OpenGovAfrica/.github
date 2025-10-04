@@ -1,0 +1,169 @@
+name: "Suggest or Expand on OpenGov Africa Programs & Events"
+description: "Propose or expand a program or event idea that advances transparency, accountability, and open governance across Africa."
+title: "[Program Idea]: <Your Program or Event Title Here>"
+labels: ["hacktoberfest", "program-suggestion"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Suggest & Expand on OpenGov Africa Programs and Events
+
+        Hey Hacktoberfest & general contributors! 👋  
+
+        We’re inviting you to **suggest or expand upon the types of programs and events OpenGov Africa engages in** as a community.  
+        Your ideas will help us shape future initiatives that advance **transparency, accountability, citizen participation, and open governance** across Africa.   
+
+        ---
+        ## Reference
+        We already have some program ideas listed here:  
+        👉 [OpenGov Africa Programs Repository](https://github.com/OpenGovAfrica/project-programs/blob/main/README.md)
+
+        You can:
+        - **Suggest new programs or event types**, or  
+        - **Expand existing ones** with more detailed structures and implementation plans.
+
+        ---
+        ## Rules & Contribution Guidelines
+
+        1. **Create a new suggestion or update an existing one**:
+           - Open a new issue in this repository describing your idea or update.
+        2. Each program suggestion must be **detailed and realistic**.  
+           Include all relevant details: purpose, goals, budget, and sustainability.
+        3. Once your idea is ready, open a **Pull Request (PR)** in the  
+           [Project Programs Repository](https://github.com/OpenGovAfrica/project-programs).
+        4. Tag your PR with the label **\`hacktoberfest\`** or **\`hacktoberfest-accepted\`** to ensure it qualifies.
+        5. If you’re unsure where your idea fits, discuss it in the comments or connect with the **Programs Team on Discord** before submitting your PR.
+
+        ---
+        ## Program Suggestion Template
+        Please complete all fields below.
+
+  - type: input
+    id: title
+    attributes:
+      label: "Program Title"
+      description: "Enter the name of your suggested program or event."
+      placeholder: "e.g., Open Data Fellowship for African Journalists"
+    validations:
+      required: true
+
+  - type: textarea
+    id: overview
+    attributes:
+      label: "Overview"
+      description: "Brief description of what it’s about and why it matters."
+      placeholder: "Describe the program’s purpose and vision."
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Problem Statement"
+      description: "What issue or need does this address?"
+      placeholder: "Explain the challenge your program aims to solve."
+    validations:
+      required: true
+
+  - type: textarea
+    id: goals
+    attributes:
+      label: "Goals & Objectives"
+      description: "What outcomes do you expect to achieve?"
+      placeholder: "List clear, measurable goals."
+    validations:
+      required: true
+
+  - type: textarea
+    id: audience
+    attributes:
+      label: "Target Audience / Participants"
+      description: "Who should be involved or benefit from this program?"
+      placeholder: "e.g., developers, students, CSOs, journalists"
+    validations:
+      required: true
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: "Implementation Plan"
+      description: "Outline the steps, timeline, and roles required."
+      placeholder: "Describe how this program will be executed from start to finish."
+    validations:
+      required: true
+
+  - type: textarea
+    id: partners
+    attributes:
+      label: "Partnerships or Collaborators"
+      description: "Who could collaborate or support this program?"
+      placeholder: "List potential partners or organizations to involve."
+    validations:
+      required: false
+
+  - type: textarea
+    id: budget
+    attributes:
+      label: "Budget & Funding Plan"
+      description: "Estimate costs, needed resources, and possible funding sources."
+      placeholder: "Include sustainability or funding strategies."
+    validations:
+      required: true
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: "Impact Measurement"
+      description: "How will you track success?"
+      placeholder: "Describe the KPIs or metrics you’ll use to measure impact."
+    validations:
+      required: true
+
+  - type: textarea
+    id: sustainability
+    attributes:
+      label: "Sustainability / Long-term Plan"
+      description: "How can this project remain active or self-sustaining?"
+      placeholder: "Mention long-term vision and maintenance plan."
+    validations:
+      required: true
+
+  - type: textarea
+    id: community
+    attributes:
+      label: "Community Involvement"
+      description: "How can volunteers and contributors participate?"
+      placeholder: "Explain how the community will be engaged."
+    validations:
+      required: false
+
+  - type: textarea
+    id: alignment
+    attributes:
+      label: "Alignment with OpenGov Africa’s Mission"
+      description: "Explain how this idea supports transparency, accountability, and citizen participation."
+      placeholder: "Describe its fit with OpenGov Africa’s goals."
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Additional Notes"
+      description: "Any extra information, links, or visuals to strengthen your proposal."
+      placeholder: "Optional — add supporting references or examples."
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ## ✅ Rules Recap
+        - Each submission must be **detailed and well thought out.**  
+        - Consider **all aspects of execution**, including funding.  
+        - Duplicate or incomplete suggestions may be closed.  
+        - Approved programs can be featured and developed under the OpenGov Africa umbrella.  
+
+        **Let’s build impactful, transparent, and community-driven programs together!**
