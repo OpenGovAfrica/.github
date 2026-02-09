@@ -1,429 +1,162 @@
-# Contributing to OpenGov Africa
+### Contributing to OGA Local Service Atlas Tracker
 
-Welcome! All of Africa is thrilled that you're considering contributing to OpenGov Africa. This document outlines our contribution guidelines to help you get started.
+Thank you for your interest in contributing to the OGA Local Service Atlas Tracker. This project is part of the OpenGov Africa (OGA) ecosystem and is built as long-term civic infrastructure. Contributions are expected to prioritize auditability, data integrity, documentation, and sustainability over speed or short-term demos.
 
-## Code of Conduct
-
-By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please take a moment to read it.
-
-## How to Contribute
-### Contributing to OpenGov Africa
-
-We’re excited that you want to contribute to OpenGov Africa!  
-Our community welcomes both **code** and **no-code** contributions; from technical writing, design, and community management, to development, documentation, and research.  
+This repository is scaffold-first. Early contributors are expected to help define foundations rather than assume existing infrastructure.
 
 ---
 
-### Step 1: Learn About Us
-Before you get started, we encourage you to explore our **[Org Wide Community Drive](https://drive.google.com/drive/folders/1EF5yA7_0STfUdrRYWvRItOtY95bhVVQS).**
+### Who Can Contribute
 
-Inside, you’ll find:  
-- Background on OpenGov Africa and our mission.  
-- Past project documentation and resources.  
-- Guides on how our teams are structured.  
-- Reference materials to help you understand our work.  
+This project welcomes contributors of all experience levels, including:
+- New open-source contributors
+- Civic technologists
+- Researchers and data practitioners
+- Developers contributing through programs such as GSoC, Outreachy, MLH, or internships
 
----
-
-### Step 2: Join the Community and Support
-
-Join our community to collaborate, ask questions, and seek support:
-
-- **GitHub Issues**: For bug reports, feature requests, and enhancements.
-- **Discussion Forums**: Look out for one or ask questions yourself. [OpenGov Africa Discussions](https://github.com/OpenGovAfrica/OpenGovAfrica/discussions)
-- Join our **[Discord server](https://discord.gg/Eswe4cvvMM)**
-   - Introduce yourself in the welcome channel  
-   - Choose and join your **subteam(s)**:  
-     - Code Contributors (Development, Bug Fixes, Features)  
-     - No-Code Contributors (Documentation, Design, Community, Marketing, Hosting, Research)  
-     - Maintainers (long-term ownership of repositories, reviewing PRs, onboarding contributors)
-- **Social Media**: Follow us on [Twitter](https://twitter.com/OpenGovAfrica), [LinkedIn](https://www.linkedin.com/company/104341081), [Instagram](https://instagram.com/OpenGovAfrica) and [Facebook](https://facebook.com/OpenGovAfrica).
+All contributors are expected to follow the ownership, review, and documentation standards defined below.
 
 ---
 
-### Step 3: Review the 90-Day Roadmap
-We operate on a rolling **[90-Day Roadmap](https://docs.google.com/document/d/13ELP1Azq7UFlbLQ0nIKrirszMJaRBs9qhlVLIlMij1s/edit?usp=drivesdk)** that outlines our goals, priorities, and active projects.  
- 
+### How Work Is Organized
 
-This roadmap helps you:  
-- Understand where we’re focused right now.  
-- See how your contributions align with bigger goals.  
-- Join efforts where extra support is most needed.  
+All work is coordinated publicly through GitHub.
 
----
+- **GitHub Issues** are the source of truth for tasks and ownership.
+- **GitHub Discussions** are used for architectural questions, planning, and coordination.
+- **Pull Requests** represent concrete implementation work and must always reference an Issue.
 
-### Step 4: Get Access
-- Fill out the **[Contributor Form](https://forms.gle/63BwMW3r7MxuJGYE6).**  
-  This allows us to:  
-  - Add you to the correct GitHub team.  
-  - Give you the right permissions for repositories.  
-  - Keep track of contributions across subteams.  
+Before starting work:
+1. Read the README and roadmap.
+2. Browse open Issues and labels.
+3. Claim an Issue by commenting clearly that you are taking ownership.
+
+Each Issue must have **one primary owner**.
 
 ---
 
-### Step 5: Start Contributing
-- Browse our [GitHub repositories](https://github.com/orgs/OpenGovAfrica/repositories).  
-- Look for open issues labeled `good first issue`, `documentation`, `design`, or `help wanted`.  Don’t see any issue? Open one.
-- Engage with your sub team on Discord to find tasks that match your interests and skills.  
+### Individual Ownership Model
 
-### Reporting Issues
+This project follows an **individual-ownership, collaborative-development** model across all phases of work.
 
-If you encounter a bug or have a feature request, please create an issue in our [GitHub repository](https://github.com/OpenGovAfrica/OpenGovAfrica/issues). 
+Collaboration through discussion, review, and feedback is encouraged and expected. However, all implemented work must have clearly attributable ownership.
 
-**When reporting an issue, please include:**
-- A clear and descriptive title
-- Steps to reproduce the issue
-- Expected behavior
-- Actual behavior
-- Screenshots or logs, if applicable
-- Any additional context or information
+- One Issue → one owner
+- One Pull Request → one author
+- One deliverable → one accountable contributor
 
-### Proposing Enhancements
-
-We welcome suggestions for new features or improvements. To propose an enhancement, please open an issue in the exact team repository and provide a detailed description of the enhancement.
-## Step 5.1: Git & PR Workflow
-
-### 1. Fork the Repository
-
-Click the **Fork** button in the top-right corner of the repository page. This creates your own copy of the project.
-
-### 2. Clone Your Fork
-
-Open your terminal and run:
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-```
-
-Replace `<your-username>` with your GitHub username and `<repo-name>` with the repository name.
-
-### 3. Set Up the Upstream Remote
-
-This connects your local repository to the original project so you can sync changes:
-
-```bash
-git remote add upstream https://github.com/OpenGovAfrica/<repo-name>.git
-git fetch upstream
-```
-
-### 4. Create a Feature Branch
-
-Always create a new branch for your changes:
-
-```bash
-git checkout -b feature/your-feature-name
-```
-
-**Branch naming conventions:**
-
-- `feature/` for new features
-- `fix/` for bug fixes
-- `docs/` for documentation updates
-- Example: `docs/update-readme` or `fix/typo-in-homepage`
-
-## Making Your Contribution
-
-### 1. Make Your Changes
-
-Keep your changes focused on a single improvement:
-
-- Fix a bug
-- Add documentation
-- Improve code readability
-- Add tests
-
-### 2. Stage Your Changes
-
-Review what you've changed:
-
-```bash
-git status
-```
-
-Stage the files you want to commit:
-
-```bash
-git add <filename>
-# Or stage all changes:
-git add .
-```
-
-### 3. Commit Your Changes
-
-Write a clear, descriptive commit message:
-
-```bash
-git commit -m "type: brief description of changes"
-```
-
-**Commit message types:**
-
-- `feat:` new feature
-- `fix:` bug fix
-- `docs:` documentation changes
-- `style:` formatting, missing semicolons, etc.
-- `refactor:` code restructuring
-- `test:` adding tests
-- `chore:` maintenance tasks
-
-**Example:**
-
-```bash
-git commit -m "docs: add installation instructions to README"
-```
-
-### 4. Push Your Branch
-
-```bash
-git push origin feature/your-feature-name
-```
-
-### 5. Open a Pull Request
-
-1. Go to your fork on GitHub
-2. You'll see a **Compare & pull request** button—click it
-3. Fill out the PR template:
-
-**Title:** Use the same format as your commit message
-
-```
-docs: add installation instructions to README
-```
-
-**Description template:**
-
-```markdown
-## What does this PR do?
-Briefly describe your changes
-
-## Why is this needed?
-Explain the problem this solves or the value it adds
-
-## Type of change
-- [ ] Bug fix
-- [ ] New feature
-- [ ] Documentation update
-- [ ] Code refactoring
-
-## Testing
-- [ ] I have tested these changes locally
-- [ ] I have added tests (if applicable)
-
-## Screenshots (if applicable)
-Add before/after screenshots for UI changes
-```
-
-4. Click **Create pull request**
-5. Wait for a maintainer to review your PR
-
-## Handling Merge Conflicts
-
-Merge conflicts happen when someone else has changed the same files you're working on. Don't panic—they're easy to fix!
-
-### Method 1: Rebase (Recommended)
-
-This keeps your commit history clean:
-
-```bash
-# Update your main branch
-git checkout main
-git pull upstream main
-
-# Rebase your feature branch
-git checkout feature/your-feature-name
-git rebase upstream/main
-```
-
-If conflicts occur:
-
-1. Git will pause and show which files have conflicts
-2. Open the conflicted files and look for conflict markers:
-
-```
-<<<<<<< HEAD
-Current code from main branch
-=======
-Your changes
->>>>>>> feature/your-feature-name
-```
-
-3. Edit the file to keep the correct code and remove the markers
-4. Stage the resolved files:
-
-```bash
-git add <resolved-file>
-```
-
-5. Continue the rebase:
-
-```bash
-git rebase --continue
-```
-
-6. Force push your changes:
-
-```bash
-git push --force-with-lease origin feature/your-feature-name
-```
-
-### Method 2: Merge (Simpler Alternative)
-
-```bash
-git checkout feature/your-feature-name
-git merge upstream/main
-```
-
-Resolve conflicts as described above, then:
-
-```bash
-git add <resolved-file>
-git commit -m "merge: resolve conflicts with main"
-git push origin feature/your-feature-name
-```
-
-## Testing Your Changes
-
-### For Documentation Changes
-
-Preview your markdown files to ensure formatting is correct. Most documentation PRs don't require additional testing.
-
-### For Code Changes
-
-**Python projects:**
-
-```bash
-# Create a virtual environment
-python -m venv .venv
-
-# Activate it
-# Windows:
-.venv\Scripts\activate
-# Mac/Linux:
-source .venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run tests
-pytest
-
-# Run linting
-flake8
-```
-
-**JavaScript/Node.js projects:**
-
-```bash
-# Install dependencies
-npm ci
-
-# Run tests
-npm test
-
-# Run linting
-npm run lint
-
-# Build (if applicable)
-npm run build
-```
-
-## Best Practices
-
-### Do's ✅
-
-- Keep PRs small and focused on one thing
-- Write clear, descriptive commit messages
-- Test your changes before submitting
-- Ask questions if you're unsure
-- Be patient and respectful during code review
-- Update your branch if maintainers request changes
-
-### Don'ts ❌
-
-- Don't work directly on the `main` branch
-- Don't submit massive PRs with unrelated changes
-- Don't force push to `main` (you can't anyway, but good to know!)
-
-## Getting Help
-
-Stuck? We're here to help!
-
-- **Issues:** Check existing [issues](../../issues) or open a new one
-- **Discussions:** Join our [community discussions](../../discussions)
-- **Discord/Slack:** [Join our community](#) (add your community link)
-- **Maintainers:** Tag maintainers in your PR if you need guidance
-
-Remember: Everyone was a beginner once. Don't be afraid to ask questions or make mistakes—that's how we all learn!
+Collaboration should improve quality, not dilute accountability.
 
 ---
 
-## Quick Reference
+### Contributors & Roles
 
-```bash
-# Initial setup
-git clone https://github.com/<your-username>/<repo>.git
-cd <repo>
-git remote add upstream https://github.com/OpenGovAfrica/<repo>.git
+This project follows an individual-ownership, collaborative-development model across all phases of work and maintains explicit attribution for all contributors. Contributors are encouraged to collaborate through discussion, reviews, and coordination at every stage of the project. However, all implemented work must have clearly attributable ownership.
 
-# For each contribution
-git checkout main
-git pull upstream main
-git checkout -b feature/your-feature
-# Make changes
-git add .
-git commit -m "type: description"
-git push origin feature/your-feature
-# Open PR on GitHub
+Each contributor is credited with the specific components, tasks, or deliverables they owned or led. Participation, discussion, or review alone does not imply ownership.
 
-# Update your branch
-git fetch upstream
-git rebase upstream/main
-git push --force-with-lease origin feature/your-feature
-```
+| Contributor | Role / Focus Area | Owned Deliverables |
+|------------|------------------|--------------------|
+| Name / GitHub | Backend, Frontend, Data, Infra, Research | Clearly scoped features, services, or setup tasks |
+
+This table must be kept up to date as the project evolves, from Phase 0 through final delivery. Phase-level credit is insufficient on its own; ownership must always be traceable to concrete deliverables, from initial scaffolding (Phase 0) through final handover.
+
+**Clarification on Collaboration and Ownership (All Phases)**
+
+From Phase 0 through the final phase, contributors may not jointly claim the same implementation output unless responsibilities are explicitly separated and documented. Collaboration should strengthen implementation quality, not dilute accountability.
 
 ---
 
-### Step 6: Stay Connected
-- Join livestreams, community calls, and mentorship sessions.  
-- Share your progress and ask questions in your subteam channels.  
-- Collaborate, learn, and grow with contributors from across Africa and beyond.  
+### Pull Request Requirements
+
+Every Pull Request must:
+- Reference a GitHub Issue with a clearly identified owner
+- Contain only work owned by the PR author
+- Be small, focused, and reviewable
+- Include relevant documentation updates
+- Pass all CI checks
+
+Reviewers may suggest changes, but the PR author must apply them. Reviewers must not push commits directly to another contributor’s branch.
 
 ---
 
-### Maintainers at OpenGov Africa
-We’re actively looking for **maintainers** to help us sustain our projects.  
-Maintainers:  
-- Review pull requests and provide feedback.  
-- Ensure issues are well-scoped and labeled.  
-- Onboard and mentor new contributors.  
-- Help keep projects aligned with our roadmap.  
-- Share responsibility for long-term stability and growth.  
+### Definition of Done
 
-If you’d like to step up as a maintainer, please indicate this in the Contributor Form or reach out directly on Discord.  
+A task or feature is considered complete only when all of the following are satisfied:
+
+1. Code is clean, readable, and compliant with project linting and formatting rules.
+2. Appropriate unit and/or integration tests are included and CI passes.
+3. Relevant documentation is updated (README, ARCHITECTURE, API docs where applicable).
+4. Database migrations are provided and reviewed if schema changes are involved.
+5. The Pull Request has received at least one peer review and maintainer approval.
+
+Work that does not meet all criteria will not be merged.
 
 ---
 
-## Style Guidelines
+### Data and Integrity Rules
 
-### Code Style
+Because this is a civic data platform, the following are strict requirements:
 
-- Follow [PEP 8](https://www.python.org/dev/peps/pep-0008/) for Python code.
-- Use meaningful variable and function names.
-- Write clear and concise comments where necessary.
+- All spatial data must use GeoJSON.
+- No inferred, fabricated, or guessed data is allowed.
+- All records must have clear provenance (source, timestamp, actor).
+- Citizen-submitted data must be treated as unverified until reviewed.
+- Schema changes require written justification.
 
-### Documentation
-We maintain comprehensive documentation to help users and contributors understand and use the project. Please ensure that any changes to the project are accompanied by appropriate updates to the documentation.
-- Update the relevant documentation for your changes.
-- Follow the [Markdown Guide](https://www.markdownguide.org/basic-syntax/) for writing Markdown files.
-- Ensure documentation is clear, concise, and easy to understand.
+Code that compromises data integrity, provenance, or auditability will not be accepted.
 
-### JSON Data
+---
 
-- Use clear and consistent naming conventions.
-- Validate JSON structure and format.
-- Include necessary metadata and context for each entry.
+### Relationship to Tech Programs, Hackathons & Internships
 
-## Thank You!
+This project may be developed in part through tech programs. If you are contributing through GSoC, MLH, Outreachy, or similar programs, please review the OGA project standard and roadmap:
 
-Thank you for considering contributing to OpenGov Africa. Your support and contributions are invaluable to the African community. Together, we can promote transparency, accountability, and good governance across Africa.
+- Project standard: https://github.com/OpenGovAfrica/gsoc/blob/main/docs/project-standard.md  
+- Roadmap: https://github.com/OpenGovAfrica/gsoc/issues/20  
+
+If these links become obsolete, please raise an Issue to update them.
+
+Contributors participating through programs are expected to:
+- Build reusable, well-documented components
+- Respect long-term maintenance needs
+- Treat programs as an entry point, not a finish line
+
+The roadmap and contribution guidelines are designed for continuity beyond any single program.
+
+---
+
+### GSoC Compatibility Note
+
+GSoC compatibility: Contributors may collaborate through discussion and peer review, but all submitted work must have clear individual ownership and be attributable to a single contributor for evaluation.
+
+Shared ownership of identical deliverables is not permitted.
+
+---
+
+### Maintainer Enforcement Guidelines
+
+These guidelines apply from Phase 0 through final project delivery.
+
+Maintainers are responsible for ensuring clear ownership and accountability throughout the project lifecycle. When reviewing work, maintainers should verify that:
+
+1. Every pull request has a clearly identifiable primary owner.
+2. Each deliverable, regardless of phase, is attributable to a specific contributor.
+3. The README “Contributors & Roles” section reflects actual implementation ownership, not participation alone.
+4. Multiple contributors are not credited for the same deliverable unless roles and responsibilities are explicitly differentiated.
+5. Collaboration is demonstrated through reviews, discussions, and coordination, not shared ownership of identical outputs.
+
+If ownership is unclear at any stage, maintainers should request clarification or restructuring before merging.
+
+Clear ownership is required for all phases to ensure sustainability, accountability, and long-term project health.
+
+---
+
+### Getting Help
+
+If anything is unclear:
+- Ask questions early in GitHub Discussions
+- Reference relevant documentation in `docs/`
+- Propose improvements via Issues
+
+If it is not written down, it does not exist. Documentation is a core contribution.
